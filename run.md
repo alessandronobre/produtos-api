@@ -9,7 +9,6 @@
 1. Clone o projeto
 ```bash
 git clone https://github.com/alessandronobre/produtos-api.git
-cd seu-repo
 ```
 
 ## 🚀 Executando o projeto
