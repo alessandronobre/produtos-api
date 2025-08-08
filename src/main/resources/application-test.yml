@@ -1,0 +1,3 @@
+db:
+  produtos: src/test/resources/data/produtos_test.json
+
